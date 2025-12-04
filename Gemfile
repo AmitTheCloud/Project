@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3.3"
+
+# Add plugins if used:
+# gem "jekyll-seo-tag"
+# gem "jekyll-feed"
+# gem "jekyll-sitemap"
